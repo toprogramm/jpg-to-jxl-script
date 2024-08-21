@@ -3,6 +3,6 @@
 cd path/to/script
 ```
 ```bash
-python jpg-to-jxl-py
+python jpg_to_jxl.py
 ```
 Use jpg_to_jxl.py follow instructions, it's the simle script
